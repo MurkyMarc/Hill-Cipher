@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488347949 source:c:\users\stevizzle\desktop\c folder\cipherproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
